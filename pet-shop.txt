@@ -1,0 +1,3 @@
+pet-shop perubahan
+-konsisten untuk membuat konten 2x seminggu
+-membuat platfrom untuk pengelolaan video
